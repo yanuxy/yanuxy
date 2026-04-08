@@ -6,5 +6,21 @@
         "cover": "https://via.placeholder.com/400x600?text=Cover+Novel",
         "status": "Ongoing",
         "description": "Tuliskan deskripsi singkat novel Anda di sini untuk ditampilkan di katalog."
+    },
+    {
+        "id": "pedang-di-balik-senyum",
+        "title": "Pedang di Balik Senyum",
+        "author": "Qian Jayadharma",
+        "cover": "https://via.placeholder.com/400x600?text=Pedang",
+        "status": "Ongoing",
+        "description": "Kisah tentang pengkhianatan dan perjuangan di balik senyuman yang tenang."
+    },
+    {
+        "id": "sang-penyihir-terakhir",
+        "title": "Sang Penyihir Terakhir dari Puncak Sunyi",
+        "author": "Qian Jayadharma",
+        "cover": "https://via.placeholder.com/400x600?text=Penyihir",
+        "status": "Ongoing",
+        "description": "Perjalanan penyihir terakhir dalam mencari sisa-sisa keajaiban dunia."
     }
 ]
