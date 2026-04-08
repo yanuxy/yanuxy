@@ -1,0 +1,20 @@
+{
+    "id": "novel-pertama-saya",
+    "title": "Judul Novel Pertama Saya",
+    "author": "Nama Penulis",
+    "description": "Tuliskan deskripsi lengkap novel Anda di sini. Deskripsi ini akan muncul di halaman detail novel.",
+    "cover": "https://via.placeholder.com/400x600?text=Cover+Novel",
+    "status": "Ongoing",
+    "chapters": [
+        {
+            "id": "bab-1",
+            "title": "Judul Bab 1",
+            "content": "Tuliskan isi cerita bab 1 Anda di sini.\n\nGunakan dua kali enter (\\n\\n) untuk membuat paragraf baru agar tampilan di website rapi."
+        },
+        {
+            "id": "bab-2",
+            "title": "Judul Bab 2",
+            "content": "Tuliskan isi cerita bab 2 Anda di sini.\n\nSelamat menulis!"
+        }
+    ]
+}
